@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://bryant123:bryant123@devconnector.taqh4.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "1baf1143c2d3f79fddb7",
+    "githubSecret": "7c3cfeb6e8e91a2ef166a81005d0f45adcf2fd5e"
+}
+
